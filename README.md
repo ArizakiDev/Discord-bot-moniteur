@@ -1,4 +1,4 @@
-Créateur : https://github.com/Vayd0 | >_Vayd.#2824
+Créateur : https://github.com/Vayd0 | >_Vayd.#2824 <br>
 Traducteur: https://github.com/Oreki-ASTRAL | >"Arizaki.exe#1504
 
 Version: 1.0
